@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Sofia', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+a{
+    font-size: 20px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color: black;
+}
